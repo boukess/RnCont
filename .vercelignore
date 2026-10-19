@@ -1,0 +1,12 @@
+.git
+.vercel
+node_modules
+dist
+release
+desktop
+test-results
+playwright-report
+tests
+playwright.config.js
+*.log
+.env*
